@@ -1,5 +1,5 @@
-def my_hash(foods)
-  my_hash = {"breakfast" =>  "eggs"}
+def my_hash
+  
 end
 
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
