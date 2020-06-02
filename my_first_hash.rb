@@ -1,7 +1,7 @@
 def my_hash(foods)
-  foods = {"breakfast" =>  "eggs"}
+  my_hash = {"breakfast" =>  "eggs"}
 end
-my_hash("breakfast")
+
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
